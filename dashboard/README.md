@@ -1,1 +1,1 @@
-This folder contains source for dashboard
+This folder contains source for dashboard..
