@@ -1,1 +1,1 @@
-temp 
+This folder contains source for dashboard
